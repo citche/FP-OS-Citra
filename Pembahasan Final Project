@@ -1,0 +1,16 @@
+# OS-Server-Project
+Tiara Citra Mustika (22.83.0864) 
+Kelas : 22TK-OsServer 1. 
+
+Dalam memenuhi tugas akhir mata kuliah OS Server dan Sistem Admin, saya membuat project yaitu:
+
+  OS yang digunakan : DEBIAN 12
+
+Pembuatan Web Server dengan beberapa service, yaitu:
+
+   1. Web Server Software: Apache, untuk mengelola permintaan HTTP dari klien dan mengirimkan konten web.
+   2. Database Server: Mysql/Mariadb, untuk penyimpanan data, dan sistem manajemen basis data (DBMS).
+   3. Domain Name System (DNS) Service: Berkeley Internet Name Domain BIND, untuk memetakan nama domain ke alamat IP server web.
+   4. Content Management System (CMS): Wordpress, untuk membuat, mengelola, dan mempublikasikan konten di situs web.
+   5. SSL: OpenSSL, agar tercipta koneksi aman antara server web dan pengguna melalui HTTPS.
+   6. Monitoring Tools: Grafana, untuk membantu memahami perilaku pengguna dan kinerja situs web.
